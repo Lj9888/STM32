@@ -1,2 +1,4 @@
 # STM32
 STM32学习
+FREEMODBUS移植
+双串口，串口1做MODBUS从站串口2做自由口主站
